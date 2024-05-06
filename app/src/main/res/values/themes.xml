@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Movie" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.Movie.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenAnimatedIcon">@mipmap/app_icon</item>
+        <item name="postSplashScreenTheme">@style/Theme.Movie</item>
+    </style>
+</resources>
