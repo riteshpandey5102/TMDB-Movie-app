@@ -1,7 +1,7 @@
 # TMDB-Movie-app
 Simple movie app implemented with help of TMDB API it demonstrates modern Android development with Hilt,Coroutines Stateflow, Compose UI, testing, etc.
 
-__[APK Link](https://github.com/riteshpandey5102/TMDB-Movie-app/blob/main/app-debug.apk)
+__[APK Link](https://github.com/riteshpandey5102/TMDB-Movie-app/blob/main/app-debug.apk)__
 
 ## Tech Stack
 - [Kotlin](https://kotlinlang.org/) - 100% Kotlin
